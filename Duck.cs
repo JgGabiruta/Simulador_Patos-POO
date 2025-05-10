@@ -8,14 +8,14 @@ namespace Simulador_Patos_POO
 {
     public class Duck
     {
-        public void swim()
+        public virtual string swim()
         {
-
+            return "Eu nado";
         }
 
-        public virtual void display()
+        public virtual string display()
         {
-
+            return "";
         }
 
     }

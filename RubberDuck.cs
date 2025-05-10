@@ -8,13 +8,13 @@ namespace Simulador_Patos_POO
 {
     public class RubberDuck : Duck, IQuackable
     {
-        public override void display()
+        public override string display()
         {
-            Console.WriteLine("Eu sou Rubber Duck!!!");
+            return "Eu sou Rubber Duck!!!";
         }
-        public void quack()
+        public string quack()
         {
-            Console.WriteLine("Quaaaack!!!");
+            return "Quaaaack!!!";
         }
 
     }

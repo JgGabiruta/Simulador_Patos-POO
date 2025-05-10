@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    public interface IQuackable
+    internal interface IAtacar
     {
-        string quack();
-
+        string atirar();
     }
 }

@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace Simulador_Patos_POO
 {
-    public class MallardDuck : Duck, IFlayable, IQuackable
+    internal class PatoDragao : Duck, IFlayable, IAtacar
     {
+        public string atirar()
+        {
+            return "Eu cuspo fogo";
+        }
         public override string display()
         {
-            return "Eu sou Mallard Duck!!!";
+            return "Eu sou Pato Dragão!!!";
         }
         public string fly()
         {
             return "Nuhh,, falei e saí voando!!";
-        }
-        public string quack()
-        {
-            return "Quaaaack!!!";
         }
 
     }

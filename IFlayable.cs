@@ -8,6 +8,6 @@ namespace Simulador_Patos_POO
 {
     public interface IFlayable
     {
-         void fly();
+         string fly();
     }
 }

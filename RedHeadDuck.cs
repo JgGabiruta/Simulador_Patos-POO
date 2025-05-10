@@ -8,17 +8,21 @@ namespace Simulador_Patos_POO
 {
     public class RedHeadDuck:Duck,IFlayable,IQuackable
     {
-        public override void display()
+        public override string display()
         {
-            Console.WriteLine("Eu sou Red Head Duck!!!");
+            return "Eu sou Red Head Duck!!!";
         }
-        public void fly()
+        public string fly()
         {
-
+            return "";
         }
-        public void quack()
+        public string quack()
         {
-
+            return "";
+        }
+        public override string swim()
+        {
+            return "Eu nado";
         }
 
     }
