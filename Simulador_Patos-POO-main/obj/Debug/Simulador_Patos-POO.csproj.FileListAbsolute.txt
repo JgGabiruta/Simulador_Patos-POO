@@ -1,0 +1,21 @@
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\bin\Debug\Simulador_Patos-POO.exe.config
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\bin\Debug\Simulador_Patos-POO.exe
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\bin\Debug\Simulador_Patos-POO.pdb
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.exe
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos-POO.pdb
+D:\FACUL\Terceiro período\POO\SimuladorDePatos\obj\Debug\Simulador_Patos_POO.Form1.resources
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe.config
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.exe
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\bin\Debug\Simulador_Patos-POO.pdb
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.AssemblyReference.cache
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Form1.resources
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.Properties.Resources.resources
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.GenerateResource.cache
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.csproj.CoreCompileInputs.cache
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.exe
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos-POO.pdb
+D:\Graduation\PUC\3º\POO\Simulador_Patos-POO-main\Simulador_Patos-POO-main\obj\Debug\Simulador_Patos_POO.FormPatolino.resources

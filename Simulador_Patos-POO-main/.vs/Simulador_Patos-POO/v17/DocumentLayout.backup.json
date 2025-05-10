@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|d:\\graduation\\puc\\3\u00BA\\poo\\simulador_patos-poo-main\\simulador_patos-poo-main\\formpatolino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:formpatolino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|d:\\graduation\\puc\\3\u00BA\\poo\\simulador_patos-poo-main\\simulador_patos-poo-main\\formpatolino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:formpatolino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|d:\\graduation\\puc\\3\u00BA\\poo\\simulador_patos-poo-main\\simulador_patos-poo-main\\patolino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:patolino.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|d:\\graduation\\puc\\3\u00BA\\poo\\simulador_patos-poo-main\\simulador_patos-poo-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|d:\\graduation\\puc\\3\u00BA\\poo\\simulador_patos-poo-main\\simulador_patos-poo-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|d:\\graduation\\puc\\3\u00BA\\poo\\simulador_patos-poo-main\\simulador_patos-poo-main\\iusaroupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:iusaroupa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|d:\\graduation\\puc\\3\u00BA\\poo\\simulador_patos-poo-main\\simulador_patos-poo-main\\ivaiproshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948EBE6E-7AE3-4798-A229-D66AEF356B45}|Simulador_Patos-POO.csproj|solutionrelative:ivaiproshopping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwH8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:47:09.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPatolino.cs",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\FormPatolino.cs",
+              "RelativeDocumentMoniker": "FormPatolino.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\FormPatolino.cs",
+              "RelativeToolTip": "FormPatolino.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAuwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:04:56.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPatolino.cs [Design]",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\FormPatolino.cs",
+              "RelativeDocumentMoniker": "FormPatolino.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\FormPatolino.cs [Design]",
+              "RelativeToolTip": "FormPatolino.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:04:27.55Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Patolino.cs",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Patolino.cs",
+              "RelativeDocumentMoniker": "Patolino.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Patolino.cs",
+              "RelativeToolTip": "Patolino.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:59:53.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:37:14.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IVaiProShopping.cs",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\IVaiProShopping.cs",
+              "RelativeDocumentMoniker": "IVaiProShopping.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\IVaiProShopping.cs",
+              "RelativeToolTip": "IVaiProShopping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:13:15.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsaRoupa.cs",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\IUsaRoupa.cs",
+              "RelativeDocumentMoniker": "IUsaRoupa.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\IUsaRoupa.cs",
+              "RelativeToolTip": "IUsaRoupa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:13:13.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Duck.cs",
+              "RelativeDocumentMoniker": "Duck.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Duck.cs",
+              "RelativeToolTip": "Duck.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:11:55.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Graduation\\PUC\\3\u00BA\\POO\\Simulador_Patos-POO-main\\Simulador_Patos-POO-main\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T23:15:49.485Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
