@@ -198,7 +198,7 @@ namespace Simulador_Patos_POO
 
         private void label1_Click(object sender, EventArgs e)
         {
-            label1.Size = 500;
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
