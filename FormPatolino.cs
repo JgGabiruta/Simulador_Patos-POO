@@ -122,7 +122,7 @@ namespace Simulador_Patos_POO
         }
         private void NovoPato_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); 
         }
 
         private void label1_Click(object sender, EventArgs e)

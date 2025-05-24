@@ -12,12 +12,16 @@ namespace Simulador_Patos_POO
 {
     public partial class Form1 : Form
     {
+        
         public int index = 0;
+
+        //public Timer timerHab1;
+        //public string estadoAnteriorHab1;
 
         public Form1()
         {
             InitializeComponent();
-            
+            EscolherPato();
         }
 
         private void EscolherPato()
@@ -120,7 +124,7 @@ namespace Simulador_Patos_POO
         private void Escolhe_Pato_Click(object sender, EventArgs e)
         {
                       
-            MessageBox.Show("Pato escolhido com sucesso!");
+            //MessageBox.Show("Pato escolhido com sucesso!");
 
             Anterior.Visible = false;
             Proximo.Visible = false;
@@ -177,19 +181,25 @@ namespace Simulador_Patos_POO
 
                     break;
                 case 4:
-                    Patotive patoT = new Patotive();
+                    Patotive patoT = new Patotive();    
                     display_Pato.Text = patoT.display();
                     hab1.Text = patoT.esfaquear();
                     hab2.Text = patoT.quack();
                     hab3.Text = patoT.usarRoupa();
 
+                   
+
                     break;
                 case 5:
-                    Patolino pato = new Patolino();
-                    display_Pato.Text = pato.display();
-                    hab1.Text = pato.usarRoupa();
-                    hab2.Text = pato.vaiProShopping();
+
+                    Patolino patolinoPato = new Patolino(); 
+                    display_Pato.Text = patolinoPato.display();
+                    hab1.Text = patolinoPato.usarRoupa();
+                    hab2.Text = patolinoPato.vaiProShopping();
                     hab3.Visible = false;
+
+                    //FormPatolino telaPatolino = new FormPatolino(patolinoPato);
+                    //telaPatolino.ShowDialog();
 
                     break;
             }
@@ -274,7 +284,7 @@ namespace Simulador_Patos_POO
 
                 case 4:
                
-                    ImagemPato.Load(" https://i.pinimg.com/736x/7e/73/7c/7e737ca04f0207cfb48de3892ba37f48.jpg");
+                    ImagemPato.Load("https://i.pinimg.com/736x/7e/73/7c/7e737ca04f0207cfb48de3892ba37f48.jpg");
                     ImagemPato.SizeMode = PictureBoxSizeMode.Zoom;
 
                     break;
@@ -352,6 +362,11 @@ namespace Simulador_Patos_POO
 
 
 
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }
